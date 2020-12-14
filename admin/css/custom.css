@@ -1,0 +1,6 @@
+.error{
+	color: red !important;
+}
+.details ul li{
+	list-style: :none !important;
+}

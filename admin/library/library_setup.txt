@@ -1,0 +1,3 @@
+Shopme.com {Hitesh Kumar}
+//library setup
+1.For error show: showerror('enter variable');
